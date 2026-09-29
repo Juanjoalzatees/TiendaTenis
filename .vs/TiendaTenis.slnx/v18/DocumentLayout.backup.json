@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|c:\\users\\jerot\\onedrive\\desktop\\tiendatenis\\tiendatenis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|solutionrelative:tiendatenis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\tiendatenis\\formularios\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|solutionrelative:tiendatenis\\formularios\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|c:\\users\\jerot\\onedrive\\desktop\\tiendatenis\\tiendatenis\\formularios\\frmclientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|solutionrelative:tiendatenis\\formularios\\frmclientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|c:\\users\\jerot\\onedrive\\desktop\\tiendatenis\\tiendatenis\\formularios\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|solutionrelative:tiendatenis\\formularios\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|c:\\users\\jerot\\onedrive\\desktop\\tiendatenis\\tiendatenis\\datos\\repositorioclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|solutionrelative:tiendatenis\\datos\\repositorioclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|c:\\users\\jerot\\onedrive\\desktop\\tiendatenis\\tiendatenis\\modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|solutionrelative:tiendatenis\\modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,12 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -35,15 +51,74 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-09-29T15:04:52.674Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\Program.cs",
+              "RelativeDocumentMoniker": "TiendaTenis\\Program.cs",
+              "ToolTip": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\Program.cs",
+              "RelativeToolTip": "TiendaTenis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T21:32:44.057Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\Formularios\\FrmClientes.cs",
+              "RelativeDocumentMoniker": "TiendaTenis\\Formularios\\FrmClientes.cs",
+              "ToolTip": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\Formularios\\FrmClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TiendaTenis\\Formularios\\FrmClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T21:26:03.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmClientes.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\Formularios\\FrmClientes.Designer.cs",
+              "RelativeDocumentMoniker": "TiendaTenis\\Formularios\\FrmClientes.Designer.cs",
+              "ToolTip": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\Formularios\\FrmClientes.Designer.cs",
+              "RelativeToolTip": "TiendaTenis\\Formularios\\FrmClientes.Designer.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAhwIkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T21:22:46.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmClientes.cs",
+              "DocumentMoniker": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\Formularios\\FrmClientes.cs",
+              "RelativeDocumentMoniker": "TiendaTenis\\Formularios\\FrmClientes.cs",
+              "ToolTip": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\Formularios\\FrmClientes.cs",
+              "RelativeToolTip": "TiendaTenis\\Formularios\\FrmClientes.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwDUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T20:58:51.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepositorioClientes.cs",
+              "DocumentMoniker": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\Datos\\RepositorioClientes.cs",
+              "RelativeDocumentMoniker": "TiendaTenis\\Datos\\RepositorioClientes.cs",
+              "ToolTip": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\Datos\\RepositorioClientes.cs",
+              "RelativeToolTip": "TiendaTenis\\Datos\\RepositorioClientes.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T15:33:13.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\Modelos\\Cliente.cs",
+              "RelativeDocumentMoniker": "TiendaTenis\\Modelos\\Cliente.cs",
+              "ToolTip": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\Modelos\\Cliente.cs",
+              "RelativeToolTip": "TiendaTenis\\Modelos\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T15:23:06.812Z"
             }
           ]
         }

@@ -17,3 +17,26 @@ C:\Users\Juan Alzate\source\repos\TiendaTenis\TiendaTenis\obj\Debug\net10.0-wind
 C:\Users\Juan Alzate\source\repos\TiendaTenis\TiendaTenis\obj\Debug\net10.0-windows\TiendaTenis.Formularios.FrmCatalogo.resources
 C:\Users\Juan Alzate\source\repos\TiendaTenis\TiendaTenis\obj\Debug\net10.0-windows\TiendaTenis.Formularios.FrmProductoDigital.resources
 C:\Users\Juan Alzate\source\repos\TiendaTenis\TiendaTenis\obj\Debug\net10.0-windows\TiendaTe.EF132159.Up2Date
+C:\Users\jerot\OneDrive\Desktop\TiendaTenis\TiendaTenis\bin\Debug\net10.0-windows\TiendaTenis.exe
+C:\Users\jerot\OneDrive\Desktop\TiendaTenis\TiendaTenis\bin\Debug\net10.0-windows\TiendaTenis.deps.json
+C:\Users\jerot\OneDrive\Desktop\TiendaTenis\TiendaTenis\bin\Debug\net10.0-windows\TiendaTenis.runtimeconfig.json
+C:\Users\jerot\OneDrive\Desktop\TiendaTenis\TiendaTenis\bin\Debug\net10.0-windows\TiendaTenis.dll
+C:\Users\jerot\OneDrive\Desktop\TiendaTenis\TiendaTenis\bin\Debug\net10.0-windows\TiendaTenis.pdb
+C:\Users\jerot\OneDrive\Desktop\TiendaTenis\TiendaTenis\bin\Debug\net10.0-windows\CsvHelper.dll
+C:\Users\jerot\OneDrive\Desktop\TiendaTenis\TiendaTenis\obj\Debug\net10.0-windows\TiendaTenis.csproj.AssemblyReference.cache
+C:\Users\jerot\OneDrive\Desktop\TiendaTenis\TiendaTenis\obj\Debug\net10.0-windows\TiendaTenis.Formularios.FrmCatalogo.resources
+C:\Users\jerot\OneDrive\Desktop\TiendaTenis\TiendaTenis\obj\Debug\net10.0-windows\TiendaTenis.Formularios.FrmClientes.resources
+C:\Users\jerot\OneDrive\Desktop\TiendaTenis\TiendaTenis\obj\Debug\net10.0-windows\TiendaTenis.Formularios.FrmProductoDigital.resources
+C:\Users\jerot\OneDrive\Desktop\TiendaTenis\TiendaTenis\obj\Debug\net10.0-windows\TiendaTenis.Formularios.FrmProductoFisico.resources
+C:\Users\jerot\OneDrive\Desktop\TiendaTenis\TiendaTenis\obj\Debug\net10.0-windows\TiendaTenis.csproj.GenerateResource.cache
+C:\Users\jerot\OneDrive\Desktop\TiendaTenis\TiendaTenis\obj\Debug\net10.0-windows\TiendaTenis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerot\OneDrive\Desktop\TiendaTenis\TiendaTenis\obj\Debug\net10.0-windows\TiendaTenis.AssemblyInfoInputs.cache
+C:\Users\jerot\OneDrive\Desktop\TiendaTenis\TiendaTenis\obj\Debug\net10.0-windows\TiendaTenis.AssemblyInfo.cs
+C:\Users\jerot\OneDrive\Desktop\TiendaTenis\TiendaTenis\obj\Debug\net10.0-windows\TiendaTenis.csproj.CoreCompileInputs.cache
+C:\Users\jerot\OneDrive\Desktop\TiendaTenis\TiendaTenis\obj\Debug\net10.0-windows\TiendaTenis.sourcelink.json
+C:\Users\jerot\OneDrive\Desktop\TiendaTenis\TiendaTenis\obj\Debug\net10.0-windows\TiendaTe.EF132159.Up2Date
+C:\Users\jerot\OneDrive\Desktop\TiendaTenis\TiendaTenis\obj\Debug\net10.0-windows\TiendaTenis.dll
+C:\Users\jerot\OneDrive\Desktop\TiendaTenis\TiendaTenis\obj\Debug\net10.0-windows\refint\TiendaTenis.dll
+C:\Users\jerot\OneDrive\Desktop\TiendaTenis\TiendaTenis\obj\Debug\net10.0-windows\TiendaTenis.pdb
+C:\Users\jerot\OneDrive\Desktop\TiendaTenis\TiendaTenis\obj\Debug\net10.0-windows\TiendaTenis.genruntimeconfig.cache
+C:\Users\jerot\OneDrive\Desktop\TiendaTenis\TiendaTenis\obj\Debug\net10.0-windows\ref\TiendaTenis.dll
