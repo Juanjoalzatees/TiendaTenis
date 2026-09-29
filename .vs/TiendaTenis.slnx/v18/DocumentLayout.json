@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|c:\\users\\jerot\\onedrive\\desktop\\tiendatenis\\tiendatenis\\datos\\repositorioclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|solutionrelative:tiendatenis\\datos\\repositorioclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|c:\\users\\jerot\\onedrive\\desktop\\tiendatenis\\tiendatenis\\modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|solutionrelative:tiendatenis\\modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepositorioClientes.cs",
+              "DocumentMoniker": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\Datos\\RepositorioClientes.cs",
+              "RelativeDocumentMoniker": "TiendaTenis\\Datos\\RepositorioClientes.cs",
+              "ToolTip": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\Datos\\RepositorioClientes.cs",
+              "RelativeToolTip": "TiendaTenis\\Datos\\RepositorioClientes.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T15:33:13.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\Modelos\\Cliente.cs",
+              "RelativeDocumentMoniker": "TiendaTenis\\Modelos\\Cliente.cs",
+              "ToolTip": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\Modelos\\Cliente.cs",
+              "RelativeToolTip": "TiendaTenis\\Modelos\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T15:23:06.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

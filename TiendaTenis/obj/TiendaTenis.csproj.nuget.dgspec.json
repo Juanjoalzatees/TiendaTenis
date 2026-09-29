@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Juan Alzate\\source\\repos\\TiendaTenis\\TiendaTenis\\TiendaTenis.csproj": {}
+    "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\TiendaTenis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Juan Alzate\\source\\repos\\TiendaTenis\\TiendaTenis\\TiendaTenis.csproj": {
+    "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\TiendaTenis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juan Alzate\\source\\repos\\TiendaTenis\\TiendaTenis\\TiendaTenis.csproj",
+        "projectUniqueName": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\TiendaTenis.csproj",
         "projectName": "TiendaTenis",
-        "projectPath": "C:\\Users\\Juan Alzate\\source\\repos\\TiendaTenis\\TiendaTenis\\TiendaTenis.csproj",
-        "packagesPath": "C:\\Users\\Juan Alzate\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juan Alzate\\source\\repos\\TiendaTenis\\TiendaTenis\\obj\\",
+        "projectPath": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\TiendaTenis.csproj",
+        "packagesPath": "C:\\Users\\jerot\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Juan Alzate\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jerot\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -51,6 +51,12 @@
         "net10.0-windows": {
           "framework": "net10.0-windows7.0",
           "targetAlias": "net10.0-windows",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[33.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
