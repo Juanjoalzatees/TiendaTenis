@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\TiendaTenis.csproj": {}
+    "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\TiendaTenis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\TiendaTenis.csproj": {
+    "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\TiendaTenis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\TiendaTenis.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\TiendaTenis.csproj",
         "projectName": "TiendaTenis",
-        "projectPath": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\TiendaTenis.csproj",
-        "packagesPath": "C:\\Users\\jerot\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\TiendaTenis.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jerot\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TiendaTenis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78c814dae82cc27c633e3797e6b8b221ab8b659b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91c8e6e9d4d40e82c73043aedbf3a39dd5ae0596")]
 [assembly: System.Reflection.AssemblyProductAttribute("TiendaTenis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TiendaTenis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

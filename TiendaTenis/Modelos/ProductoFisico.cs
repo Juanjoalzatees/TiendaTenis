@@ -14,7 +14,5 @@ namespace TiendaTenis.Modelos
         public override string Entregar() => $"{Nombre}: despachado por envío.";
         public override void RegistrarVenta(int cantidad) => Stock -= cantidad;
 
-        public override string ALineaCsv() =>
-        ParteComun("F") + ";" + Stock + ";" + CostoEnvio;
     }
 }

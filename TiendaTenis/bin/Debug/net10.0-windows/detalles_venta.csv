@@ -1,0 +1,5 @@
+NumeroVenta,CodigoProducto,Descripcion,Tipo,PrecioUnitario,Cantidad,CostoEnvio
+1,1017931110,Air Force One,Físico,900000,2,0
+2,0000001,Nike Mind,Físico,500000,3,0
+3,0000100,Regalo Nike,Digital,500000,4,0
+4,0000101,Guia New Ballance,Digital,150000,5,0

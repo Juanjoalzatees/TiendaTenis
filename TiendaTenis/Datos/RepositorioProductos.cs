@@ -1,10 +1,13 @@
 ﻿using System.Globalization;
+using CsvHelper;
 using TiendaTenis.Modelos;
 
 namespace TiendaTenis.Datos;
+
 public class RepositorioProductos
 {
     private const string Ruta = "productos.csv";
+    private const string RutaFormatoAntiguo = "productos_formato_antiguo.csv";
     private List<Producto> _items = new List<Producto>();
 
     public RepositorioProductos()
@@ -13,7 +16,7 @@ public class RepositorioProductos
     }
 
     public List<Producto> Listar() => _items.ToList();
-    public Producto Buscar(string codigo) => _items.FirstOrDefault(p => p.Codigo == codigo);
+    public Producto? Buscar(string codigo) => _items.FirstOrDefault(p => p.Codigo == codigo);
 
     public void Agregar(Producto p)
     {
@@ -36,42 +39,45 @@ public class RepositorioProductos
         Guardar();
     }
 
-    private void Guardar() =>
-        File.WriteAllLines(Ruta, _items.Select(p => p.ALineaCsv()));
-
-    private void Cargar() =>
-        _items = File.Exists(Ruta)
-            ? File.ReadAllLines(Ruta).Select(DesdeLinea).ToList()
-            : new List<Producto>();
-
-   
-    private static Producto DesdeLinea(string linea)
+    // Escribe con CsvHelper: Producto -> ProductoCsv (fila plana) -> archivo.
+    private void Guardar()
     {
-        string[] c = linea.Split(';');
+        var filas = _items.Select(ProductoCsv.DesdeProducto).ToList();
 
-        return c[0] == "F"
-            ? new ProductoFisico
-            {
-                Codigo = c[1],
-                Nombre = c[2],
-                Descripcion = c[3],
-                Precio = decimal.Parse(c[4]),
-                Categoria = c[5],
-                Peso = double.Parse(c[6]),
-                Stock = int.Parse(c[7]),
-                CostoEnvio = decimal.Parse(c[8])
-            }
-            : new ProductoDigital
-            {
-                Codigo = c[1],
-                Nombre = c[2],
-                Descripcion = c[3],
-                Precio = decimal.Parse(c[4]),
-                Categoria = c[5],
-                Peso = double.Parse(c[6]),
-                Formato = c[7],
-                UrlDescarga = c[8]
-            };
+        using (var writer = new StreamWriter(Ruta))
+        using (var csv = new CsvWriter(writer, CultureInfo.InvariantCulture))
+        {
+            csv.WriteRecords(filas);
+        }
+    }
+
+    // Lee con CsvHelper: archivo -> ProductoCsv (fila plana) -> Producto (Fisico o Digital).
+    private void Cargar()
+    {
+        _items = new List<Producto>();
+
+        if (!File.Exists(Ruta) || new FileInfo(Ruta).Length == 0) return;
+
+        // Si el archivo es del formato viejo (líneas con ';' hechas a mano), no se pierde:
+        // se guarda como copia y el catálogo arranca vacío con el formato nuevo.
+        if (!TieneFormatoNuevo())
+        {
+            File.Move(Ruta, RutaFormatoAntiguo, true);
+            return;
+        }
+
+        using (var reader = new StreamReader(Ruta))
+        using (var csv = new CsvReader(reader, CultureInfo.InvariantCulture))
+        {
+            _items = csv.GetRecords<ProductoCsv>()
+                        .Select(fila => fila.AProducto())
+                        .ToList();
+        }
+    }
+
+    private static bool TieneFormatoNuevo()
+    {
+        string? encabezado = File.ReadLines(Ruta).FirstOrDefault();
+        return encabezado != null && encabezado.StartsWith("Tipo,");
     }
 }
-

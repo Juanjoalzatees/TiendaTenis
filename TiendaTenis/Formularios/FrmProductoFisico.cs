@@ -16,6 +16,7 @@ namespace TiendaTenis.Formularios
         public FrmProductoFisico(ProductoFisico existente = null)
         {
             InitializeComponent();
+            Tema.Aplicar(this);
             cboCategoria.Items.AddRange(new object[]
                 { "Jordan", "Nike", "Adidas", "Puma", "New Balance" });
 

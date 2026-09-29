@@ -1,29 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\TiendaTenis\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|c:\\users\\jerot\\onedrive\\desktop\\tiendatenis\\tiendatenis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|c:\\users\\user\\desktop\\tiendatenis\\tiendatenis\\formularios\\frmproductodigital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|solutionrelative:tiendatenis\\formularios\\frmproductodigital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|c:\\users\\user\\desktop\\tiendatenis\\tiendatenis\\formularios\\frmproductofisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|solutionrelative:tiendatenis\\formularios\\frmproductofisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|c:\\users\\user\\desktop\\tiendatenis\\tiendatenis\\formularios\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|solutionrelative:tiendatenis\\formularios\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|c:\\users\\user\\desktop\\tiendatenis\\tiendatenis\\formularios\\tema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|solutionrelative:tiendatenis\\formularios\\tema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|c:\\users\\user\\desktop\\tiendatenis\\tiendatenis\\modelos\\productofisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|solutionrelative:tiendatenis\\modelos\\productofisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|c:\\users\\user\\desktop\\tiendatenis\\tiendatenis\\modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|solutionrelative:tiendatenis\\modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|c:\\users\\user\\desktop\\tiendatenis\\tiendatenis\\modelos\\productodigital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|solutionrelative:tiendatenis\\modelos\\productodigital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|c:\\users\\user\\desktop\\tiendatenis\\tiendatenis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|solutionrelative:tiendatenis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\tiendatenis\\formularios\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|solutionrelative:tiendatenis\\formularios\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|c:\\users\\user\\desktop\\tiendatenis\\tiendatenis\\datos\\repositorioproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|solutionrelative:tiendatenis\\datos\\repositorioproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|c:\\users\\jerot\\onedrive\\desktop\\tiendatenis\\tiendatenis\\formularios\\frmclientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|solutionrelative:tiendatenis\\formularios\\frmclientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|c:\\users\\user\\desktop\\tiendatenis\\tiendatenis\\formularios\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|solutionrelative:tiendatenis\\formularios\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|c:\\users\\jerot\\onedrive\\desktop\\tiendatenis\\tiendatenis\\formularios\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|solutionrelative:tiendatenis\\formularios\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|c:\\users\\user\\desktop\\tiendatenis\\tiendatenis\\datos\\repositorioventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|solutionrelative:tiendatenis\\datos\\repositorioventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|c:\\users\\jerot\\onedrive\\desktop\\tiendatenis\\tiendatenis\\datos\\repositorioclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|c:\\users\\user\\desktop\\tiendatenis\\tiendatenis\\datos\\productocsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|solutionrelative:tiendatenis\\datos\\productocsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|c:\\users\\user\\desktop\\tiendatenis\\tiendatenis\\datos\\repositorioclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|solutionrelative:tiendatenis\\datos\\repositorioclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|c:\\users\\jerot\\onedrive\\desktop\\tiendatenis\\tiendatenis\\modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|c:\\users\\user\\desktop\\tiendatenis\\tiendatenis\\modelos\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|solutionrelative:tiendatenis\\modelos\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|c:\\users\\user\\desktop\\tiendatenis\\tiendatenis\\modelos\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|solutionrelative:tiendatenis\\modelos\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|C:\\Users\\USER\\Desktop\\TiendaTenis\\tiendatenis\\formularios\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|solutionrelative:tiendatenis\\formularios\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|c:\\users\\user\\desktop\\tiendatenis\\tiendatenis\\formularios\\frmclientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|solutionrelative:tiendatenis\\formularios\\frmclientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|c:\\users\\user\\desktop\\tiendatenis\\tiendatenis\\formularios\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|solutionrelative:tiendatenis\\formularios\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|c:\\users\\user\\desktop\\tiendatenis\\tiendatenis\\modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C0018B2-F7B3-BCA5-77EA-5BFF7C16AACA}|TiendaTenis\\TiendaTenis.csproj|solutionrelative:tiendatenis\\modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,8 +86,233 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmProductoDigital.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Formularios\\FrmProductoDigital.cs",
+              "RelativeDocumentMoniker": "TiendaTenis\\Formularios\\FrmProductoDigital.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Formularios\\FrmProductoDigital.cs",
+              "RelativeToolTip": "TiendaTenis\\Formularios\\FrmProductoDigital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T23:19:29.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmProductoFisico.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Formularios\\FrmProductoFisico.cs",
+              "RelativeDocumentMoniker": "TiendaTenis\\Formularios\\FrmProductoFisico.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Formularios\\FrmProductoFisico.cs",
+              "RelativeToolTip": "TiendaTenis\\Formularios\\FrmProductoFisico.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T23:18:53.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tema.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Formularios\\Tema.cs",
+              "RelativeDocumentMoniker": "TiendaTenis\\Formularios\\Tema.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Formularios\\Tema.cs",
+              "RelativeToolTip": "TiendaTenis\\Formularios\\Tema.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAUwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T23:16:47.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoFisico.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Modelos\\ProductoFisico.cs",
+              "RelativeDocumentMoniker": "TiendaTenis\\Modelos\\ProductoFisico.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Modelos\\ProductoFisico.cs",
+              "RelativeToolTip": "TiendaTenis\\Modelos\\ProductoFisico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T22:42:38.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RepositorioProductos.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Datos\\RepositorioProductos.cs",
+              "RelativeDocumentMoniker": "TiendaTenis\\Datos\\RepositorioProductos.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Datos\\RepositorioProductos.cs",
+              "RelativeToolTip": "TiendaTenis\\Datos\\RepositorioProductos.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAwEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T22:35:20.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Program.cs",
+              "RelativeDocumentMoniker": "TiendaTenis\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Program.cs",
+              "RelativeToolTip": "TiendaTenis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T21:32:44.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Formularios\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "TiendaTenis\\Formularios\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Formularios\\FrmPrincipal.cs",
+              "RelativeToolTip": "TiendaTenis\\Formularios\\FrmPrincipal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T22:38:04.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoDigital.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Modelos\\ProductoDigital.cs",
+              "RelativeDocumentMoniker": "TiendaTenis\\Modelos\\ProductoDigital.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Modelos\\ProductoDigital.cs",
+              "RelativeToolTip": "TiendaTenis\\Modelos\\ProductoDigital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T22:43:24.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Modelos\\Producto.cs",
+              "RelativeDocumentMoniker": "TiendaTenis\\Modelos\\Producto.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Modelos\\Producto.cs",
+              "RelativeToolTip": "TiendaTenis\\Modelos\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T22:43:44.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmVentas.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Formularios\\FrmVentas.cs",
+              "RelativeDocumentMoniker": "TiendaTenis\\Formularios\\FrmVentas.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Formularios\\FrmVentas.cs",
+              "RelativeToolTip": "TiendaTenis\\Formularios\\FrmVentas.cs",
+              "ViewState": "AgIAAJ4BAAAAAAAAAAAowMMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T22:37:26.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Modelos\\Venta.cs",
+              "RelativeDocumentMoniker": "TiendaTenis\\Modelos\\Venta.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Modelos\\Venta.cs",
+              "RelativeToolTip": "TiendaTenis\\Modelos\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T22:34:56.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DetalleVenta.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Modelos\\DetalleVenta.cs",
+              "RelativeDocumentMoniker": "TiendaTenis\\Modelos\\DetalleVenta.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Modelos\\DetalleVenta.cs",
+              "RelativeToolTip": "TiendaTenis\\Modelos\\DetalleVenta.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T22:34:30.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RepositorioVentas.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Datos\\RepositorioVentas.cs",
+              "RelativeDocumentMoniker": "TiendaTenis\\Datos\\RepositorioVentas.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Datos\\RepositorioVentas.cs",
+              "RelativeToolTip": "TiendaTenis\\Datos\\RepositorioVentas.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAqwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T22:32:44.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductoCsv.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Datos\\ProductoCsv.cs",
+              "RelativeDocumentMoniker": "TiendaTenis\\Datos\\ProductoCsv.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Datos\\ProductoCsv.cs",
+              "RelativeToolTip": "TiendaTenis\\Datos\\ProductoCsv.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T22:28:24.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RepositorioClientes.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Datos\\RepositorioClientes.cs",
+              "RelativeDocumentMoniker": "TiendaTenis\\Datos\\RepositorioClientes.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Datos\\RepositorioClientes.cs",
+              "RelativeToolTip": "TiendaTenis\\Datos\\RepositorioClientes.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T15:33:13.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmClientes.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Formularios\\FrmClientes.Designer.cs",
+              "RelativeDocumentMoniker": "TiendaTenis\\Formularios\\FrmClientes.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Formularios\\FrmClientes.Designer.cs",
+              "RelativeToolTip": "TiendaTenis\\Formularios\\FrmClientes.Designer.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAhwIkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T21:22:46.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmClientes.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Formularios\\FrmClientes.cs",
+              "RelativeDocumentMoniker": "TiendaTenis\\Formularios\\FrmClientes.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Formularios\\FrmClientes.cs",
+              "RelativeToolTip": "TiendaTenis\\Formularios\\FrmClientes.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwDUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T20:58:51.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Modelos\\Cliente.cs",
+              "RelativeDocumentMoniker": "TiendaTenis\\Modelos\\Cliente.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Modelos\\Cliente.cs",
+              "RelativeToolTip": "TiendaTenis\\Modelos\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T15:23:06.812Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -50,75 +327,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\Program.cs",
-              "RelativeDocumentMoniker": "TiendaTenis\\Program.cs",
-              "ToolTip": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\Program.cs",
-              "RelativeToolTip": "TiendaTenis\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T21:32:44.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 15,
               "Title": "FrmClientes.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\Formularios\\FrmClientes.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\TiendaTenis\\TiendaTenis\\Formularios\\FrmClientes.cs",
               "RelativeDocumentMoniker": "TiendaTenis\\Formularios\\FrmClientes.cs",
               "ToolTip": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\Formularios\\FrmClientes.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TiendaTenis\\Formularios\\FrmClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\Formularios\\FrmClientes.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-29T21:26:03.254Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmClientes.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\Formularios\\FrmClientes.Designer.cs",
-              "RelativeDocumentMoniker": "TiendaTenis\\Formularios\\FrmClientes.Designer.cs",
-              "ToolTip": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\Formularios\\FrmClientes.Designer.cs",
-              "RelativeToolTip": "TiendaTenis\\Formularios\\FrmClientes.Designer.cs",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAhwIkAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T21:22:46.969Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FrmClientes.cs",
-              "DocumentMoniker": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\Formularios\\FrmClientes.cs",
-              "RelativeDocumentMoniker": "TiendaTenis\\Formularios\\FrmClientes.cs",
-              "ToolTip": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\Formularios\\FrmClientes.cs",
-              "RelativeToolTip": "TiendaTenis\\Formularios\\FrmClientes.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAqwDUAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T20:58:51.135Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RepositorioClientes.cs",
-              "DocumentMoniker": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\Datos\\RepositorioClientes.cs",
-              "RelativeDocumentMoniker": "TiendaTenis\\Datos\\RepositorioClientes.cs",
-              "ToolTip": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\Datos\\RepositorioClientes.cs",
-              "RelativeToolTip": "TiendaTenis\\Datos\\RepositorioClientes.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowCgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T15:33:13.82Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\Modelos\\Cliente.cs",
-              "RelativeDocumentMoniker": "TiendaTenis\\Modelos\\Cliente.cs",
-              "ToolTip": "C:\\Users\\jerot\\OneDrive\\Desktop\\TiendaTenis\\TiendaTenis\\Modelos\\Cliente.cs",
-              "RelativeToolTip": "TiendaTenis\\Modelos\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T15:23:06.812Z"
             }
           ]
         }

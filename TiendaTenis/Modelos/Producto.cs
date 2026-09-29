@@ -19,15 +19,9 @@ public abstract class Producto
     public abstract decimal CalcularCostoEntrega();
     public abstract string Entregar();
     public virtual void RegistrarVenta(int cantidad) { }
-    public abstract string ALineaCsv();
 
     // Para la grilla
     public string PesoConUnidad => $"{Peso} {UnidadPeso}";
-
-    // Parte común del CSV, la reutilizan las dos subclases
-    protected string ParteComun(string letra) =>
-    letra + ";" + Codigo + ";" + Nombre + ";" + Descripcion + ";" +
-    Precio + ";" + Categoria + ";" + Peso;
 
     public override string ToString() => $"{Codigo} - {Nombre}";
 }

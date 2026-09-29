@@ -1,1 +1,5 @@
-F;5513;Air Jordan 1;Blanco y negro;1000000;Jordan;2;5;100
+Tipo,Codigo,Nombre,Descripcion,Precio,Categoria,Peso,Stock,CostoEnvio,Formato,UrlDescarga
+Fisico,000002,Air Force One,,900000,Nike,0,5,0,,
+Fisico,0000001,Nike Mind,,500000,Nike,0,7,0,,
+Digital,0000100,Regalo Nike,,500000,Tarjetas de regalo,0,,,PDF,www.nike.com
+Digital,0000101,Guia New Ballance,,150000,Guías,0,,,PDF,www.newballance.com

@@ -15,7 +15,7 @@ public partial class FrmProductoDigital : Form
     public FrmProductoDigital(ProductoDigital existente = null)
     {
         InitializeComponent();
-
+        Tema.Aplicar(this);
         cboCategoria.Items.AddRange(new object[]
             { "Tarjetas de regalo", "Ebooks", "Guías" });
         cboFormato.Items.AddRange(new object[]
